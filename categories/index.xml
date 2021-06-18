@@ -2,23 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Huang Ziyuan</title>
-    <link>https://huang-ziyuan.github.io/categories/</link>
-      <atom:link href="https://huang-ziyuan.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>/categories/</link>
+      <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2019, Ziyuan Huang</copyright><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>@ 2021 Huang Ziyuan</copyright><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://huang-ziyuan.github.io/img/icon-192.png</url>
+      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Categories</title>
-      <link>https://huang-ziyuan.github.io/categories/</link>
+      <link>/categories/</link>
     </image>
-    
-    <item>
-      <title>Demo</title>
-      <link>https://huang-ziyuan.github.io/categories/demo/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://huang-ziyuan.github.io/categories/demo/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
