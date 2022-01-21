@@ -21,33 +21,57 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication-type/1/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/action-classification/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/action-detection/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/de-cheng/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+    <loc>/author/liang-pan/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/marcelo-h-ang-jr/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/mingqian-tang/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/shiwei-zhang/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/2021-arxiv-tada/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/zhiwu-qing/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/ziwei-liu/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/ziyuan-huang/</loc>
+    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/de-cheng/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/nannan-wang/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/shiwei-zhang/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/publication/2021-iccv-sscs/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tag/video-grounding-self-supervised-learning-video-representations/</loc>
@@ -62,32 +86,8 @@
     <loc>/author/xinpeng-ding/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/ziyuan-huang/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/publication-type/4/</loc>
-    <lastmod>2021-10-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/action-classification/</loc>
-    <lastmod>2021-10-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/action-detection/</loc>
-    <lastmod>2021-10-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/liang-pan/</loc>
-    <lastmod>2021-10-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/marcelo-h-ang-jr/</loc>
-    <lastmod>2021-10-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/2021-arxiv-tada/</loc>
-    <lastmod>2021-10-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/zhiwu-qing/</loc>
-    <lastmod>2021-10-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/ziwei-liu/</loc>
-    <lastmod>2021-10-12T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/2021-cvprw-ek100tal/</loc>
     <lastmod>2021-06-29T00:00:00+00:00</lastmod>
