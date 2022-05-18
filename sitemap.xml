@@ -23,6 +23,12 @@
     <loc>http://huang-ziyuan.github.io/publication-type/1/</loc>
     <lastmod>2022-03-02T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://huang-ziyuan.github.io/publication-type/4/</loc>
+    <lastmod>2022-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://huang-ziyuan.github.io/tag/action-recognition/</loc>
+    <lastmod>2022-03-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://huang-ziyuan.github.io/tag/aerial-tracking/</loc>
     <lastmod>2022-03-02T00:00:00+00:00</lastmod>
   </url><url>
@@ -32,13 +38,43 @@
     <loc>http://huang-ziyuan.github.io/author/changhong-fu/</loc>
     <lastmod>2022-03-02T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://huang-ziyuan.github.io/author/changxin-gao/</loc>
+    <lastmod>2022-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://huang-ziyuan.github.io/tag/contrastive-learning/</loc>
+    <lastmod>2022-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://huang-ziyuan.github.io/tag/data-augmentation/</loc>
+    <lastmod>2022-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://huang-ziyuan.github.io/publication/2022-cvpr-hico/</loc>
+    <lastmod>2022-03-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://huang-ziyuan.github.io/author/liang-pan/</loc>
+    <lastmod>2022-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://huang-ziyuan.github.io/author/marcelo-h.-ang-jr/</loc>
+    <lastmod>2022-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://huang-ziyuan.github.io/author/mingqian-tang/</loc>
+    <lastmod>2022-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://huang-ziyuan.github.io/author/nong-sang/</loc>
+    <lastmod>2022-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://huang-ziyuan.github.io/publication/2022-arxiv-paramcrop/</loc>
     <lastmod>2022-03-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://huang-ziyuan.github.io/publication_types/</loc>
     <lastmod>2022-03-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://huang-ziyuan.github.io/publication/</loc>
+    <lastmod>2022-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://huang-ziyuan.github.io/tag/representation-learning/</loc>
+    <lastmod>2022-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://huang-ziyuan.github.io/author/rong-jin/</loc>
     <lastmod>2022-03-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://huang-ziyuan.github.io/author/shiwei-zhang/</loc>
@@ -53,7 +89,19 @@
     <loc>http://huang-ziyuan.github.io/tag/temporal-modelling/</loc>
     <lastmod>2022-03-02T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://huang-ziyuan.github.io/tag/untrimmed-videos/</loc>
+    <lastmod>2022-03-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://huang-ziyuan.github.io/tag/visual-tracking/</loc>
+    <lastmod>2022-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://huang-ziyuan.github.io/author/xiang-wang/</loc>
+    <lastmod>2022-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://huang-ziyuan.github.io/author/yi-xu/</loc>
+    <lastmod>2022-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://huang-ziyuan.github.io/author/zhiwu-qing/</loc>
     <lastmod>2022-03-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://huang-ziyuan.github.io/author/ziang-cao/</loc>
@@ -74,52 +122,13 @@
     <loc>http://huang-ziyuan.github.io/author/marcelo-h-ang-jr/</loc>
     <lastmod>2022-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://huang-ziyuan.github.io/author/mingqian-tang/</loc>
-    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://huang-ziyuan.github.io/publication/2022-iclr-tada/</loc>
     <lastmod>2022-01-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://huang-ziyuan.github.io/author/zhiwu-qing/</loc>
-    <lastmod>2022-01-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://huang-ziyuan.github.io/author/de-cheng/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://huang-ziyuan.github.io/author/nannan-wang/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://huang-ziyuan.github.io/publication/2021-iccv-sscs/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://huang-ziyuan.github.io/tag/video-grounding-self-supervised-learning-video-representations/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://huang-ziyuan.github.io/author/xiaomeng-li/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://huang-ziyuan.github.io/author/xinbo-gao/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://huang-ziyuan.github.io/author/xinpeng-ding/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://huang-ziyuan.github.io/publication-type/4/</loc>
-    <lastmod>2021-06-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://huang-ziyuan.github.io/publication/2021-cvprw-ek100tal/</loc>
     <lastmod>2021-06-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://huang-ziyuan.github.io/author/changxin-gao/</loc>
-    <lastmod>2021-06-29T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://huang-ziyuan.github.io/author/jianwen-jiang/</loc>
-    <lastmod>2021-06-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://huang-ziyuan.github.io/author/marcelo-h.-ang-jr/</loc>
-    <lastmod>2021-06-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://huang-ziyuan.github.io/author/nong-sang/</loc>
     <lastmod>2021-06-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://huang-ziyuan.github.io/tag/temporal-action-localization/</loc>
@@ -132,9 +141,6 @@
     <lastmod>2021-06-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://huang-ziyuan.github.io/tag/video-transformers/</loc>
-    <lastmod>2021-06-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://huang-ziyuan.github.io/author/xiang-wang/</loc>
     <lastmod>2021-06-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://huang-ziyuan.github.io/author/yutong-feng/</loc>
@@ -161,9 +167,6 @@
     <loc>http://huang-ziyuan.github.io/tag/relation-opration/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://huang-ziyuan.github.io/author/rong-jin/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://huang-ziyuan.github.io/tag/self-supervised-learning-video-representations-motion-learning/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -181,6 +184,27 @@
   </url><url>
     <loc>http://huang-ziyuan.github.io/courses/example/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://huang-ziyuan.github.io/author/de-cheng/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://huang-ziyuan.github.io/author/nannan-wang/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://huang-ziyuan.github.io/publication/2021-iccv-sscs/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://huang-ziyuan.github.io/tag/video-grounding-self-supervised-learning-video-representations/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://huang-ziyuan.github.io/author/xiaomeng-li/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://huang-ziyuan.github.io/author/xinbo-gao/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://huang-ziyuan.github.io/author/xinpeng-ding/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://huang-ziyuan.github.io/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
