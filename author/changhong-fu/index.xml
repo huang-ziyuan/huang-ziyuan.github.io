@@ -5,12 +5,35 @@
     <link>http://huang-ziyuan.github.io/author/changhong-fu/</link>
       <atom:link href="http://huang-ziyuan.github.io/author/changhong-fu/index.xml" rel="self" type="application/rss+xml" />
     <description>Changhong Fu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>@ 2022 Huang Ziyuan</copyright><lastBuildDate>Wed, 02 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>@ 2022 Huang Ziyuan</copyright><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://huang-ziyuan.github.io/media/icon_huf4aaa2ef5e122dd066bbee378b3f57ca_113000_512x512_fill_lanczos_center_2.png</url>
       <title>Changhong Fu</title>
       <link>http://huang-ziyuan.github.io/author/changhong-fu/</link>
     </image>
+    
+    <item>
+      <title>PVT&#43;&#43;: A Simple End-to-End Latency-Aware Visual Tracking Framework</title>
+      <link>http://huang-ziyuan.github.io/publication/2023-cvpr-pvt&#43;&#43;/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://huang-ziyuan.github.io/publication/2023-cvpr-pvt&#43;&#43;/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
     
     <item>
       <title>TCTrack: Temporal Contexts for Aerial Tracking</title>
