@@ -66,15 +66,27 @@
     <lastmod>2023-08-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://huang-ziyuan.github.io/publication-type/1/</loc>
-    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://huang-ziyuan.github.io/tag/aerial-tracking/</loc>
-    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://huang-ziyuan.github.io/author/bowen-li/</loc>
-    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://huang-ziyuan.github.io/author/changhong-fu/</loc>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://huang-ziyuan.github.io/tag/temporal-modelling/</loc>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://huang-ziyuan.github.io/publication/2023-tpami-tctrack&#43;&#43;/</loc>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://huang-ziyuan.github.io/tag/visual-tracking/</loc>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://huang-ziyuan.github.io/author/ziang-cao/</loc>
+    <lastmod>2023-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://huang-ziyuan.github.io/author/bowen-li/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://huang-ziyuan.github.io/author/hang-zhao/</loc>
@@ -90,9 +102,6 @@
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://huang-ziyuan.github.io/author/sebastian-scherer/</loc>
-    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://huang-ziyuan.github.io/tag/visual-tracking/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://huang-ziyuan.github.io/author/yiming-li/</loc>
@@ -137,7 +146,7 @@
     <loc>http://huang-ziyuan.github.io/author/mingqian-tang/</loc>
     <lastmod>2022-03-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://huang-ziyuan.github.io/publication/2022-arxiv-paramcrop/</loc>
+    <loc>http://huang-ziyuan.github.io/publication/2022-tmm-paramcrop/</loc>
     <lastmod>2022-03-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://huang-ziyuan.github.io/tag/representation-learning/</loc>
@@ -146,19 +155,10 @@
     <loc>http://huang-ziyuan.github.io/author/rong-jin/</loc>
     <lastmod>2022-03-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://huang-ziyuan.github.io/publication/2022-cvpr-tctrack/</loc>
-    <lastmod>2022-03-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://huang-ziyuan.github.io/tag/temporal-modelling/</loc>
-    <lastmod>2022-03-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://huang-ziyuan.github.io/tag/untrimmed-videos/</loc>
     <lastmod>2022-03-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://huang-ziyuan.github.io/author/yi-xu/</loc>
-    <lastmod>2022-03-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://huang-ziyuan.github.io/author/ziang-cao/</loc>
     <lastmod>2022-03-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://huang-ziyuan.github.io/publication/2022-iclr-tada/</loc>
