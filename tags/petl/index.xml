@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PETL | Ziyuan Huang</title>
-    <link>http://localhost:1313/tags/petl/</link>
-      <atom:link href="http://localhost:1313/tags/petl/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://huang-ziyuan.github.io/tags/petl/</link>
+      <atom:link href="https://huang-ziyuan.github.io/tags/petl/index.xml" rel="self" type="application/rss+xml" />
     <description>PETL</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 13 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>https://huang-ziyuan.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>PETL</title>
-      <link>http://localhost:1313/tags/petl/</link>
+      <link>https://huang-ziyuan.github.io/tags/petl/</link>
     </image>
     
     <item>
       <title>Res-tuning: A flexible and efficient tuning paradigm via unbinding tuner from backbone</title>
-      <link>http://localhost:1313/publication/restuning/</link>
+      <link>https://huang-ziyuan.github.io/publication/restuning/</link>
       <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/restuning/</guid>
+      <guid>https://huang-ziyuan.github.io/publication/restuning/</guid>
       <description>&lt;!-- 
 
 

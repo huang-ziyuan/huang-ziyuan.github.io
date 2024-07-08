@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Ziyuan Huang</title>
-    <link>http://localhost:1313/publication/</link>
-      <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://huang-ziyuan.github.io/publication/</link>
+      <atom:link href="https://huang-ziyuan.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 04 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>https://huang-ziyuan.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
-      <link>http://localhost:1313/publication/</link>
+      <link>https://huang-ziyuan.github.io/publication/</link>
     </image>
     
     <item>
       <title>Accelerating Pre-training of Multimodal LLMs via Chain-of-Sight</title>
-      <link>http://localhost:1313/publication/cos/</link>
+      <link>https://huang-ziyuan.github.io/publication/cos/</link>
       <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/cos/</guid>
+      <guid>https://huang-ziyuan.github.io/publication/cos/</guid>
       <description>&lt;!-- 
 
 
@@ -39,9 +39,9 @@
     
     <item>
       <title>Towards Better Vision-Inspired Vision-Language Models</title>
-      <link>http://localhost:1313/publication/vivl/</link>
+      <link>https://huang-ziyuan.github.io/publication/vivl/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/vivl/</guid>
+      <guid>https://huang-ziyuan.github.io/publication/vivl/</guid>
       <description>&lt;!-- 
 
 
@@ -79,9 +79,9 @@
     
     <item>
       <title>Res-tuning: A flexible and efficient tuning paradigm via unbinding tuner from backbone</title>
-      <link>http://localhost:1313/publication/restuning/</link>
+      <link>https://huang-ziyuan.github.io/publication/restuning/</link>
       <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/restuning/</guid>
+      <guid>https://huang-ziyuan.github.io/publication/restuning/</guid>
       <description>&lt;!-- 
 
 
@@ -119,9 +119,9 @@
     
     <item>
       <title>Towards Real-World Visual Tracking with Temporal Contexts</title>
-      <link>http://localhost:1313/publication/tctrack/</link>
+      <link>https://huang-ziyuan.github.io/publication/tctrack/</link>
       <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/tctrack/</guid>
+      <guid>https://huang-ziyuan.github.io/publication/tctrack/</guid>
       <description>&lt;!-- 
 
 
@@ -159,9 +159,9 @@
     
     <item>
       <title>Temporally-Adaptive Models for Efficient Video Understanding</title>
-      <link>http://localhost:1313/publication/tadaformer/</link>
+      <link>https://huang-ziyuan.github.io/publication/tadaformer/</link>
       <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/tadaformer/</guid>
+      <guid>https://huang-ziyuan.github.io/publication/tadaformer/</guid>
       <description>&lt;!-- 
 
 
