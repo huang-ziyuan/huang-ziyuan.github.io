@@ -23,7 +23,7 @@ repository               : "huang-ziyuan/huang-ziyuan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "personal.HEIC"
+  avatar           : "personal.jpg"
   name             : "Ziyuan Huang 黄子渊"
   pronouns         : # example: "she/her"  
   bio              : "Research Scientist at Ant Group. Building unified omni-modal models towards AGI."
